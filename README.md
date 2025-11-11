@@ -33,6 +33,13 @@
 **ملف GIF للمحاكاة:**
 ![عرض حركة التروس](animation.gif)
 
+
+**فديو يوتيوب للمحاكاة:**
+<div align="center">
+
+[![عرض حي](https://img.youtube.com/vi/Ws5od4z1TfI/hqdefault.jpg)](https://youtu.be/RJZHJX9zzEU)
+
+</div>
 ---
 
 ### 🛠️ الأداة المستخدمة
