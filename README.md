@@ -31,10 +31,13 @@
 هنا يظهر التصميم وهو يعمل. الترس القائد (الأول) يكمل 18 دورة مقابل دورة واحدة فقط للترس المنقاد (الأخير).
 
 **ملف GIF للمحاكاة:**
+
 ![عرض حركة التروس](animation.gif)
 
 
+
 **فديو يوتيوب للمحاكاة:**
+
 <div align="center">
 
 [![عرض حي](https://img.youtube.com/vi/RJZHJX9zzEU/hqdefault.jpg)](https://youtu.be/RJZHJX9zzEU)
